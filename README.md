@@ -8,7 +8,7 @@ Demo website: [Zhang Jian's Blog](https://zhangjian.dev).
 - Please keep this repository `public` and **do not** rename it. Also, we only sync changes from the `main` branch.
 - The *Markdown files* **only** in the [/drafts](/drafts) and [/published](/published) directories will be **synchronized** to your blog as **posts**.
 
-    - To trigger the synchronization, you need to create your *GitHub App* and install it on this repository. Please read [personal-brand-website-builder GitHub_App.md](https://github.com/PersonalBranding/personal-brand-website-builder/blob/main/docs/GitHub_App.md).
+    - To trigger the synchronization, you need to create your *GitHub App* and install it on this repository. Please read [is-bio GitHub_App.md](https://github.com/is-bio/is-bio/blob/main/docs/GitHub_App.md).
 	- After completing the previous step, you should be able to see the contents of the Markdown files displayed in your blog as *posts* when you `git push`. 
 
 - Posts in the [/drafts](/drafts) directory are private and **only visible to you** on the blog.
